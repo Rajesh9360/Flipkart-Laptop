@@ -7,7 +7,7 @@ This project focuses on forecasting laptop prices on Flipkart using a data-drive
 
 ## Overview
 
-The project spans from October 2023 to November 2024 in Bengaluru, Karnataka. Key highlights include:
+The project spans from October 2023 to November 2023 in Bengaluru, Karnataka. Key highlights include:
 
 - Conducting comprehensive analysis using real-time Flipkart data to forecast laptop prices.
 - Utilizing various analytical methodologies to identify significant trends and patterns in the Flipkart laptop market.
