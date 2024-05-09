@@ -2,7 +2,7 @@
 
 This project focuses on forecasting laptop prices on Flipkart using a data-driven approach. By conducting comprehensive analysis and utilizing machine learning techniques, the project aims to provide valuable insights for retailers and consumers alike.
 
-![images (1)](https://github.com/vishnu55510/Flipkart_laptop/assets/162179720/f4d406c8-e616-487f-bc78-6deed416b4da)
+![images (1)](https://thumbs.dreamstime.com/z/kyiv-ukraine-june-photo-illustration-flipkart-private-limited-logo-seen-mobile-phone-hand-computer-220810407.jpg)
 
 
 ## Overview
